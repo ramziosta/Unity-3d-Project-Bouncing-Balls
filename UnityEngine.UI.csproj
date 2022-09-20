@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{66f379c1-d8ff-b5fd-eff1-d04e672baf93}</ProjectGuid>
+    <ProjectGuid>{c6091690-4a66-c8ba-076e-f8a28387c26a}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UnityEngine.UI</AssemblyName>
@@ -375,34 +375,34 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>/Users/ramziosta/My project (1)/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/ramziosta/Desktop/Unity/Structure and Prefab/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>/Users/ramziosta/My project (1)/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/ramziosta/Desktop/Unity/Structure and Prefab/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-        <HintPath>/Users/ramziosta/My project (1)/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+        <HintPath>/Users/ramziosta/Desktop/Unity/Structure and Prefab/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-        <HintPath>/Users/ramziosta/My project (1)/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+        <HintPath>/Users/ramziosta/Desktop/Unity/Structure and Prefab/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-        <HintPath>/Users/ramziosta/My project (1)/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+        <HintPath>/Users/ramziosta/Desktop/Unity/Structure and Prefab/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>/Users/ramziosta/My project (1)/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+        <HintPath>/Users/ramziosta/Desktop/Unity/Structure and Prefab/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/Users/ramziosta/My project (1)/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/ramziosta/Desktop/Unity/Structure and Prefab/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-        <HintPath>/Users/ramziosta/My project (1)/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+        <HintPath>/Users/ramziosta/Desktop/Unity/Structure and Prefab/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-        <HintPath>/Users/ramziosta/My project (1)/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/ramziosta/Desktop/Unity/Structure and Prefab/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>/Users/ramziosta/My project (1)/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+        <HintPath>/Users/ramziosta/Desktop/Unity/Structure and Prefab/Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.4f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll</HintPath>
